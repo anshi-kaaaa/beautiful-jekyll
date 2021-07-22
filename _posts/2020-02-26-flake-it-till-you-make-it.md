@@ -1,17 +1,35 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+title: .
+subtitle: .
+<!-- cover-img: /assets/img/path.jpg -->
+<!-- thumbnail-img: /assets/img/thumb.png -->
+<!-- share-img: /assets/img/path.jpg -->
+<!-- tags: [books, test] -->
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+I am Anshika, an undergrad student from the University of Delhi, India. I am pursuing my degree in biochemistry and am very interested in bioinformatics. Being from a non-technical background, I often find it challenging to learn bioinformatics. I would have many questions but could not find the right people to ask or discuss them. And have found that many students and researchers are going through the same situation.
+Therefore with the help of my mentor Yo Yehudi, as a part of open life science, I have created the website Newbies in Bioinformatics.
+The website aims to promote bioinformatics amongst beginners,by  discussing challenges and biases faced by beginners, and providing insights from experts.
+The website currently includes four posts.
+The first post is about the challenges faced by a newbie and an open invitation to anyone who wants to contribute.
+The second post includes an interview with Dr. Sandeep Kumar Dhanda, who is a well-established bioinformatician, answering the basic questions of a newbie. 
+The third post is a guest blog by Yo Yehudi about getting started with Git and GitHub. Where she beautifully explains GitHub and some basic concepts about why it can be useful to someone getting started doing computational work
+The following post is a blog by Ankit Kumar, who is a software engineer. In the blog, he discusses the challenges faced by him while learning bioinformatics and the possible solutions to those challenges like finding open source and free alternatives for paid tools and understanding the working of tools.
+The website is open for contributions. 
+Experts in the field of computational biology, bioinformatics, computer science, and open source  are welcome to share their knowledge with the newbies.
+Beginners and people with intermediate knowledge of bioinformatics are also encouraged to discuss the challenges and biases they have faced while learning bioinformatics.
+Contributions can be in the form of a guest blog or interview. For contributions, one can reach the contributing.md in the GitHub repository. Suggestions of the topics you could contribute to can be found as issues in GitHub. Some of the topics of issues are genomics, proteomics, open-source, and bioinformatics applications in different fields like agriculture and neuroscience. Please comment on a github issue or email newbiesinbioinformatics@gmail.com if you’d like to post an article that you think might fit  or re-post an existing article.
+Now I would like to thank the contributors of the website. 
+Yo Yehudi, Dr. Sandeep Kumar Dhanda, Ankit Kumar, Dr. Emma Karoune
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+
+
+
+
+
+
+
+
